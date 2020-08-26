@@ -1,0 +1,26 @@
+{
+  "description": "bpfaas Nodejs SDK",
+  "dependencies": {},
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/bpfaas/sdk-nodejs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bpfaas/sdk-nodejs.git"
+  },
+  "keywords": [
+    "bpfaas",
+    "faas"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "license": "MIT",
+  "maintainers": [{
+    "name": "brainpoint",
+    "email": "bpoint.lee@gmail.com"
+  }],
+  "scripts": {},
+  "name": "bpfaas",
+  "version": "0.0.1"
+}
